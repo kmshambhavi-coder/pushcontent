@@ -8,7 +8,7 @@
     "creator": "6d7110f6-33a0-4a48-8d24-386f7f6d6b7e",
     "modifiedBy": "6d7110f6-33a0-4a48-8d24-386f7f6d6b7e",
     "priority": 2,
-    "description": "This is push content playbook\n\nto test line break issue",
+    "description": "This is push content playbook\n\nto test line break issue <br> test br tag too",
     "environments": [
         "Default Environment"
     ],
@@ -16,7 +16,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "0f63ba6e-6ee1-4ede-8ac3-ad80b1286d14",
     "creationTimeUnixTimeInMs": 1766649723555,
-    "modificationTimeUnixTimeInMs": 1767088096922,
+    "modificationTimeUnixTimeInMs": 1767088244405,
     "trigger": {
         "id": 0,
         "identifier": "3aa51ba2-7f01-4fd7-88fd-58ea218a1744",
@@ -175,8 +175,8 @@
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1767088096876,
-            "modificationTimeUnixTimeInMs": 1767088096922,
+            "creationTimeUnixTimeInMs": 1767088244355,
+            "modificationTimeUnixTimeInMs": 1767088244405,
             "additionalProperties": {}
         }
     ],
